@@ -1,2 +1,3 @@
 # agi
-Implementing a fundamental artificial general intelligence - capable to learning continuously and displaying creativity
+The goal of this project is to create a framework which supports the developement of General Intelligence.
+
